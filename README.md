@@ -8,6 +8,7 @@ E:Unable to locate "your peckage"
 
 ## you can fix it in the way below :
 **1. make sure to know the codename of the linux you are using and for example I am here using kubuntu linux with the codename "jammy"**
+
 ![image](./foto/codename.png)
 
 and if there is writing like 
@@ -18,6 +19,7 @@ command not found :lsb
 you can instal lsb-core 
 
 ![image](./foto/instalLSBcore.png)
+
 **2. Open your source.list in /etc/apt/source.list**
 
 ![image](./foto/sourcelist.png)
