@@ -42,7 +42,7 @@ sudo touch /etc/apt/source.list
 ``` 
 sudo nano /etc/apt/source.list
 ```
-and after you open it, it must be empty and then fill in the kubuntu repository above ( repository-kubuntu-jammy-jellifish ).
+and after you open it, it must be empty and then fill in the kubuntu repository above ( repository-kubuntu-jammy-jellyfish ).
 
 ![image](./foto/opensources.png)
 
