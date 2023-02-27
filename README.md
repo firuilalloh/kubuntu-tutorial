@@ -46,7 +46,7 @@ and after you open it, it must be empty and then fill in the kubuntu repository 
 
 ![image](./foto/opensources.png)
 
-### 6. And then save by "ctrl+x" then "enter"
+### 6. Save by "ctrl+x" then "enter"
 
 ### 7. And then update 
 ``` 
