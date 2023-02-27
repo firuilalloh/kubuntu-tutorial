@@ -16,6 +16,7 @@ command not found :lsb
 ```
 
 you can instal lsb-core 
+
 ![image](./foto/instalLSBcore.png)
 ### 2. Open your source.list in /etc/apt/source.list
 
